@@ -1,0 +1,113 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background-image: radial-gradient(circle, #171424, black);
+
+}
+.div1{
+    width: 20%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+
+}
+.div2{
+    width: 20%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+
+}
+.vvv{
+    box-shadow: black 20px 20px 20px;
+    background-color:#ffffff;
+    margin-top: 5px;
+    width: 100px;
+    border: 2px;
+    height: 5px;
+}
+#select{
+    background-color: #17142400;
+    box-shadow: black 20px 20px 20px;
+    margin-top: -90px;
+    width: 100px;
+    height: 100px;
+    font-size: 50px;
+    color: #ffffff;
+}
+#inp1{
+width: 100px;
+height: 100px;
+margin-top: 5px;
+background-color: #ffffff00;
+box-shadow: #000000 20px 20px 20px;
+color: #ffffff;
+font-size: 50px;
+}
+
+
+#inp2{
+    width: 100px;
+    height: 100px;
+    margin-top: 5px;
+    background-color: #17142400;
+    box-shadow: black 20px 20px 20px;
+    color: #ffffff;
+    font-size: 50px;
+    }
+    #inp3{
+        width: 100px;
+        height: 100px;
+        margin-top: 5px;
+        background-color: #17142400;
+        box-shadow: black 20px 20px 20px;
+        color: #ffffff;
+        font-size: 50px;
+        }
+        #inp4{
+            width: 100px;
+            height: 100px;
+            margin-top: 5px;
+            background-color: #17142400;
+            box-shadow: black 20px 20px 20px;
+            color: #ffffff;
+            font-size: 50px;
+        }
+#h1{
+color: rgb(255, 255, 255);
+text-shadow: black 30px 30px 40px ;
+}
+.div3{
+    width: 50%;
+position: absolute;
+margin-top:350px;
+margin-left: -720px;
+display: inline-flex;
+justify-content: space-around;
+}
+#opt1{
+    background-color: #171424;
+}
+#opt2{
+    background-color: #171424;
+}
+#opt3{
+    background-color: #171424;
+}
+#opt4{
+    background-color: #171424;
+}
+#h11{
+    color: white;
+}
